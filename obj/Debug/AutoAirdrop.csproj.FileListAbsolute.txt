@@ -1,0 +1,12 @@
+c:\users\marek_000\documents\visual studio 2015\Projects\AutoAirdrop\AutoAirdrop\bin\Debug\AutoAirdrop.dll
+c:\users\marek_000\documents\visual studio 2015\Projects\AutoAirdrop\AutoAirdrop\bin\Debug\AutoAirdrop.pdb
+c:\users\marek_000\documents\visual studio 2015\Projects\AutoAirdrop\AutoAirdrop\bin\Debug\Assembly-CSharp-firstpass.dll
+c:\users\marek_000\documents\visual studio 2015\Projects\AutoAirdrop\AutoAirdrop\bin\Debug\Assembly-CSharp.dll
+c:\users\marek_000\documents\visual studio 2015\Projects\AutoAirdrop\AutoAirdrop\bin\Debug\Newtonsoft.Json.dll
+c:\users\marek_000\documents\visual studio 2015\Projects\AutoAirdrop\AutoAirdrop\bin\Debug\Rocket.API.dll
+c:\users\marek_000\documents\visual studio 2015\Projects\AutoAirdrop\AutoAirdrop\bin\Debug\Rocket.Core.dll
+c:\users\marek_000\documents\visual studio 2015\Projects\AutoAirdrop\AutoAirdrop\bin\Debug\Rocket.Unturned.dll
+c:\users\marek_000\documents\visual studio 2015\Projects\AutoAirdrop\AutoAirdrop\bin\Debug\UnityEngine.dll
+c:\users\marek_000\documents\visual studio 2015\Projects\AutoAirdrop\AutoAirdrop\obj\Debug\AutoAirdrop.csprojResolveAssemblyReference.cache
+c:\users\marek_000\documents\visual studio 2015\Projects\AutoAirdrop\AutoAirdrop\obj\Debug\AutoAirdrop.dll
+c:\users\marek_000\documents\visual studio 2015\Projects\AutoAirdrop\AutoAirdrop\obj\Debug\AutoAirdrop.pdb
